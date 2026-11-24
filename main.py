@@ -15,7 +15,9 @@ the drop of something sweet, and exact change; (3) a real laugh with
 a turn — the setup sounds like a machine stating its limits, then
 the punchline in the last few words swaps the coin it wants for a
 phone number; (4) compression — 131 characters, one breath, the
-punch lands in the final clause; (5) charm, not creepiness — cheeky
+punch lands in the final clause (the em dash is one character and
+counts toward the 200-character gate, so the line stays short even
+with it); (5) charm, not creepiness — cheeky
 and warm, a machine offering something sweet for a number, not
 demanding anything.
 """
